@@ -19,5 +19,7 @@ namespace mongoTestes.DataTypes
         {
             this.Enderecos = new List<DataTypes.Enderecos>();
         }
+
+
     }
 }
